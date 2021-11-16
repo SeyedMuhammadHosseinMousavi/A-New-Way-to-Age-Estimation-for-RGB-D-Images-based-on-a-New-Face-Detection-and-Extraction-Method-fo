@@ -1,2 +1,4 @@
-# A-New-Way-to-Age-Estimation-for-RGB-D-Images-based-on-a-New-Face-Detection-and-Extraction-Method-fo
-A New Way to Age Estimation for RGB-D Images, based on a New Face Detection and Extraction Method for Depth Images
+# 
+Please cite below:
+Mousavi, Seyed Muhammad Hossein. "A new way to age estimation for rgb-d images, based on a new face detection and extraction method for depth images." International Journal of Image, Graphics and Signal Processing 10 (2018): 10.
+
