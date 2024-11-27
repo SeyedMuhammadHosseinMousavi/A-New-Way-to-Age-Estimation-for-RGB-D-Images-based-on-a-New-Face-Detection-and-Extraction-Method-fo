@@ -15,7 +15,7 @@ This repository implements an age estimation pipeline for **RGB (color)** and **
   - Combines entropy and edge values to estimate age, normalized between the youngest and oldest samples in the dataset.
 ![f3](https://github.com/user-attachments/assets/2aef3265-8023-4f11-b470-7fa6dcf8d278)
 
-![fig4](https://github.com/user-attachments/assets/8bdf8fad-1e67-4f42-a864-5aa13e08ed0e)
+![389293937-8bdf8fad-1e67-4f42-a864-5aa13e08ed0e](https://github.com/user-attachments/assets/99f65071-bdf1-4d19-ad34-a5cddde3ead9)
 
 - ### Please cite below:
 Mousavi, Seyed Muhammad Hossein. "A new way to age estimation for rgb-d images, based on a new face detection and extraction method for depth images." International Journal of Image, Graphics and Signal Processing 10.11 (2018): 10.
