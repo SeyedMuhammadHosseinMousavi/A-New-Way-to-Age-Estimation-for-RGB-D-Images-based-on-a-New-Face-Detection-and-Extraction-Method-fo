@@ -1,6 +1,6 @@
 # A New Way to Age Estimation for RGBD Images based on a New Face Detection and Extraction Method for Depth Images
 
-This repository implements an age estimation pipeline for **RGB (color)** and **Depth (D)** images. The system combines face extraction, edge detection, entropy calculation, and normalization to predict an individual's age based on both modalities. The methodology is inspired by the paper _"A New Way to Age Estimation for RGB-D Images based on a New Face Detection and Extraction Method for Depth Images"_.
+This repository implements an age estimation pipeline for **RGB (Color)** and **Depth** images. The system combines face extraction, edge detection, entropy calculation, and normalization to predict an individual's age based on both modalities. The methodology is inspired by the paper _"A New Way to Age Estimation for RGB-D Images based on a New Face Detection and Extraction Method for Depth Images"_.
 - Link to the paper:
 - https://www.mecs-press.org/ijigsp/ijigsp-v10-n11/v10n11-2.html
 ## Features
